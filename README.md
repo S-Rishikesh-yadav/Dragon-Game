@@ -2,7 +2,7 @@
 
 A fun and interactive Dragon Game built using **HTML**, **CSS**, and **JavaScript**. The player controls a Dragon that must fly between sets of pipes without hitting them.
 
-🎮 [Play the Game Live](https://s-rishikesh-yadav.github.io/Bird-Game/)
+🎮 [Play the Game Live](https://s-rishikesh-yadav.github.io/Dragon-Game/)
 
 ---
 
