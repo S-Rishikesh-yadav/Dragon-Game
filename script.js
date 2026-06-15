@@ -1,3 +1,4 @@
+alert("Welcome to Dragon Game")
 let move_speed = 3, gravity = 0.3;
 let Dragon = document.querySelector('.Dragon');
 let img = document.getElementById('dragon-1');
